@@ -1,5 +1,5 @@
 package calc;
-public class Addition 
+public class Addition
 {
 	public void add(int a,int b)
 	{
